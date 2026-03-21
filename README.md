@@ -1,10 +1,10 @@
 # Awesome Yew [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) with stars
 
-[<img src="logo.svg" align="right" width="100" title="Awesome Yew">](https://github.com/yewstack/yew) ⭐ 32,487 | 🐛 123 | 🌐 Rust | 📅 2026-03-20
+[<img src="logo.svg" align="right" width="100" title="Awesome Yew">](https://github.com/yewstack/yew) ⭐ 32,487 | 🐛 125 | 🌐 Rust | 📅 2026-03-20
 
 > A curated list of awesome things related to Yew.
 
-[Yew](https://github.com/yewstack/yew) ⭐ 32,487 | 🐛 123 | 🌐 Rust | 📅 2026-03-20 is a modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
+[Yew](https://github.com/yewstack/yew) ⭐ 32,487 | 🐛 125 | 🌐 Rust | 📅 2026-03-20 is a modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
 
 Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md) first.
 
@@ -27,8 +27,8 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 
 ## Official
 
-* [Yew](https://github.com/yewstack/yew) ⭐ 32,487 | 🐛 123 | 🌐 Rust | 📅 2026-03-20 - Rust / WebAssembly framework for building client web apps.
-* [Examples](https://github.com/yewstack/yew/tree/master/examples) ⭐ 32,487 | 🐛 123 | 🌐 Rust | 📅 2026-03-20 - Smaller examples included in official repo.
+* [Yew](https://github.com/yewstack/yew) ⭐ 32,487 | 🐛 125 | 🌐 Rust | 📅 2026-03-20 - Rust / WebAssembly framework for building client web apps.
+* [Examples](https://github.com/yewstack/yew/tree/master/examples) ⭐ 32,487 | 🐛 125 | 🌐 Rust | 📅 2026-03-20 - Smaller examples included in official repo.
 * [Live demo](https://yew-todomvc.netlify.com) - A todomvc demo.
 * [API Docs](https://docs.rs/yew) - Docs on docs.rs.
 * [Website](https://yew.rs/) - Official website.
@@ -39,17 +39,17 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 
 ## Projects
 
-* [candle-wasm-examples](https://github.com/huggingface/candle) ⭐ 19,725 | 🐛 630 | 🌐 Rust | 📅 2026-03-16 - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
+* [candle-wasm-examples](https://github.com/huggingface/candle) ⭐ 19,735 | 🐛 632 | 🌐 Rust | 📅 2026-03-20 - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
   Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
-* [Apache Iggy](https://github.com/apache/iggy) ⭐ 4,025 | 🐛 108 | 🌐 Rust | 📅 2026-03-19 - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.
+* [Apache Iggy](https://github.com/apache/iggy) ⭐ 4,035 | 🐛 110 | 🌐 Rust | 📅 2026-03-20 - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed.
 * [webapp.rs](https://github.com/saschagrunert/webapp.rs) ⭐ 2,239 | 🐛 22 | 🌐 Rust | 📅 2023-03-16 - A web application completely written in Rust, frontend is built with Yew.
 * [zoom-rs](https://github.com/security-union/zoom-rs) ⭐ 1,723 | 🐛 102 | 🌐 Rust | 📅 2026-03-18 - Zoom clone written in rust for research purposes.
 * [Rust-Full-Stack](https://github.com/steadylearner/Rust-Full-Stack) ⭐ 1,580 | 🐛 244 | 🌐 Rust | 📅 2023-05-10 - Easily testable and working Rust codes with blog posts to explain them.
-* [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) ⭐ 891 | 🐛 6 | 🌐 Rust | 📅 2026-03-16 - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri](https://github.com/tauri-apps/tauri) ⭐ 104,365 | 🐛 1,380 | 🌐 Rust | 📅 2026-03-18.
-* [PinePods](https://github.com/madeofpendletonwool/PinePods) ⭐ 825 | 🐛 138 | 🌐 Rust | 📅 2026-03-18 - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.
-* [Proxelar](https://github.com/emanuele-em/proxelar) ⭐ 471 | 🐛 7 | 🌐 Rust | 📅 2026-03-16 - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+* [Realworld example](https://github.com/jetli/rust-yew-realworld-example-app) ⭐ 891 | 🐛 6 | 🌐 Rust | 📅 2026-03-16 - Exemplary real world app built with Rust + Yew + WebAssembly. It utilizes Yew's latest `function components` and `hooks`. It also supports desktop application powered by [Tauri](https://github.com/tauri-apps/tauri) ⭐ 104,408 | 🐛 1,382 | 🌐 Rust | 📅 2026-03-21.
+* [PinePods](https://github.com/madeofpendletonwool/PinePods) ⭐ 825 | 🐛 139 | 🌐 Rust | 📅 2026-03-18 - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.
+* [Proxelar](https://github.com/emanuele-em/proxelar) ⭐ 471 | 🐛 8 | 🌐 Rust | 📅 2026-03-20 - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
 * [Spaceman](https://github.com/eliaperantoni/spaceman) ⭐ 373 | 🐛 0 | 🌐 Rust | 📅 2023-04-23 - Spaceman is a cross-platform gRPC client designed to be pleasant to use and pretty to look at.
-* [Sentry Relay](https://github.com/getsentry/relay) ⭐ 365 | 🐛 100 | 🌐 Rust | 📅 2026-03-19 - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
+* [Sentry Relay](https://github.com/getsentry/relay) ⭐ 365 | 🐛 100 | 🌐 Rust | 📅 2026-03-20 - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
 * [zzhack](https://github.com/zzhack-stack/zzhack) ⭐ 330 | 🐛 0 | 🌐 Rust | 📅 2026-01-14 - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
 * [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) ⭐ 299 | 🐛 3 | 🌐 Rust | 📅 2023-08-01 - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
 * [RustMart](https://github.com/sheshbabu/rustmart-yew-example) ⭐ 271 | 🐛 2 | 🌐 Rust | 📅 2020-08-31 - Single Page Application (SPA) written using Rust, Wasm and Yew.
@@ -60,25 +60,25 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 * [karaoke-rs](https://github.com/tarkah/karaoke-rs) ⭐ 168 | 🐛 10 | 🌐 Rust | 📅 2022-06-08 - A simple, network enabled karaoke player in Rust.
 * [yew-styles-page](https://github.com/spielrs/yew-styles-page) ⭐ 158 | 🐛 21 | 🌐 Rust | 📅 2023-01-20 - This is an initial project of a framework style for yew.
 * [Kiomet](https://github.com/SoftbearStudios/kiomet) ⭐ 156 | 🐛 6 | 🌐 Rust | 📅 2025-09-10 - An online real-time strategy game in which you expand your territory by capturing towers.
-* [Google Wasefire](https://github.com/google/wasefire) ⭐ 156 | 🐛 64 | 🌐 Rust | 📅 2026-03-17 - Secure firmware framework focusing on developer experience.
+* [Google Wasefire](https://github.com/google/wasefire) ⭐ 156 | 🐛 65 | 🌐 Rust | 📅 2026-03-20 - Secure firmware framework focusing on developer experience.
 * [wasm-2048](https://github.com/dev-family/wasm-2048) ⭐ 153 | 🐛 1 | 🌐 Rust | 📅 2020-12-30 - 2048 game implemented with Rust and Yew and compiled to Wasm.
 * [diff.rs](https://github.com/xfbs/diff.rs) ⭐ 136 | 🐛 42 | 🌐 Rust | 📅 2025-07-05 - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 * [chipbox](https://github.com/chipnertkj/chipbox) ⭐ 129 | 🐛 11 | 🌐 Rust | 📅 2026-03-11 - chipbox is an open-source desktop DAW written in Rust.
 * [Yew-WebRTC-Chat](https://github.com/codec-abc/Yew-WebRTC-Chat) ⭐ 127 | 🐛 2 | 🌐 Rust | 📅 2023-08-17 - A simple WebRTC chat made with Yew.
-* [Rust algorithms](https://github.com/Jondolf/rust-algorithms) ⭐ 126 | 🐛 1 | 🌐 Rust | 📅 2024-07-17 - A website with interactive implementations of various algorithms.
+* [Rust algorithms](https://github.com/Jondolf/rust-algorithms) ⭐ 127 | 🐛 1 | 🌐 Rust | 📅 2024-07-17 - A website with interactive implementations of various algorithms.
 * [CubeShuffle](https://github.com/philipborg/CubeShuffle) ⭐ 112 | 🐛 28 | 🌐 Rust | 📅 2023-02-24 - Card game shuffling utility built with Rust, Yew, Bulma and Tauri.
 * [web-view todomvc desktop app](https://github.com/Extrawurst/rust-webview-todomvc-yew) ⭐ 108 | 🐛 15 | 🌐 Rust | 📅 2023-01-20 - Demo how to use yew for a todomvc that compiles to WebAssembly and is bundled as a lightweight(\~2mb) desktop app by [web-view](https://github.com/Boscop/web-view) ⭐ 1,948 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-09, as an alternative to Electron, [web-view](https://github.com/Boscop/web-view) ⭐ 1,948 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-09 also has a [demo](https://github.com/Boscop/web-view/tree/master/examples#todo-yew) ⭐ 1,948 | 🐛 117 | 🌐 JavaScript | 📅 2024-05-09.
 * [Syre](https://github.com/syre-data/syre) ⭐ 107 | 🐛 3 | 🌐 Rust | 📅 2025-09-01 - Scientific data management and insights.
 * [live-ask.com](https://github.com/liveask/liveask) ⭐ 104 | 🐛 9 | 🌐 Rust | 📅 2026-02-11 - Realtime Event/Meetup Q\&A Platform. [Live at live-ask.com](https://live-ask.com).
 * [Macige](https://github.com/tramlinehq/macige) ⭐ 96 | 🐛 4 | 🌐 Rust | 📅 2023-06-07 - CI workflow generator for mobile app development, [Live Demo](https://macige.tramline.app).
 * [Fullstack-Rust](https://github.com/vascokk/fullstack-rust) ⭐ 95 | 🐛 1 | 🌐 Rust | 📅 2023-10-09 - A Full Stack Rust application (Connect5 game) with Actix-web, Yew, Bulma CSS and Diesel.
-* [RustedLessPass](https://github.com/RustedLessPass/RustedLessPass) ⭐ 77 | 🐛 2 | 🌐 Rust | 📅 2026-02-05 - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
+* [RustedLessPass](https://github.com/RustedLessPass/RustedLessPass) ⭐ 78 | 🐛 2 | 🌐 Rust | 📅 2026-02-05 - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
 * [Mindsweeper](https://github.com/AlexBuz/mindsweeper) ⭐ 77 | 🐛 1 | 🌐 Rust | 📅 2023-12-30 - A principled take on minesweeper, [Live Demo](https://alexbuz.github.io/mindsweeper/).
 * [simply-view-image-for-python-debugging](https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file) ⭐ 73 | 🐛 15 | 🌐 Rust | 📅 2026-03-19 - Visual studio code extension simply view the image of the image variables when debugging python.
 * [hurlurl](https://github.com/lucasmerlin/hurlurl) ⭐ 68 | 🐛 0 | 🌐 Rust | 📅 2025-07-25 - A randomizing link shortener, [Live Demo](https://hurlurl.com/).
 * [yew-react-example](https://github.com/hobofan/yew-react-example) ⭐ 66 | 🐛 3 | 🌐 JavaScript | 📅 2020-11-17 - This project shows how to create a web app using a React component inside a Yew component.
 * [SandCat](https://github.com/Xu-Mj/sandcat) ⭐ 63 | 🐛 0 | 🌐 Rust | 📅 2024-08-16 - The software has primarily implemented the basic functionalities of an IM application, which includes a fundamental friend system, one-on-one chat, group chat, and one-on-one audio/video calls. It also supports i18n and currently offers a switch between Chinese and English.
-* [blog-rs](https://github.com/songday/blog-rs) ⭐ 62 | 🐛 0 | 🌐 Rust | 📅 2022-11-29 - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
+* [blog-rs](https://github.com/songday/blog-rs) ⭐ 61 | 🐛 0 | 🌐 Rust | 📅 2022-11-29 - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
 * [Yew Fullstack Boilerplate](https://github.com/lukidoescode/yew-fullstack-boilerplate) ⭐ 58 | 🐛 22 | 🌐 Rust | 📅 2023-01-07 - Highly opinionated boilerplate for creating full stack applications with Rust.
 * [website-wasm](https://github.com/kamiyaa/website-wasm) ⭐ 57 | 🐛 0 | 🌐 Rust | 📅 2022-03-03 - My personal website written in Rust via Yew/Wasm.
 * [Flow.er](https://github.com/LighghtEeloo/flow.er) ⭐ 57 | 🐛 1 | 🌐 Rust | 📅 2023-05-24 - A notebook app integrated with todo lists utility. Developed with Rust, WebAssembly, Yew and Trunk.
@@ -149,7 +149,7 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 * [Yewprint](https://github.com/yewprint/yewprint) ⚠️ Archived - Port of blueprintjs.com to Yew.
 * [ybc](https://github.com/thedodd/ybc) ⭐ 255 | 🐛 21 | 🌐 Rust | 📅 2024-06-30 - A Yew component library based on the Bulma CSS framework.
 * [material-yew](https://github.com/hamza1311/material-yew) ⭐ 238 | 🐛 15 | 🌐 Rust | 📅 2024-04-17 - Yew wrapper for Material Web Components.
-* [patternfly-yew](https://github.com/ctron/patternfly-yew) ⭐ 166 | 🐛 27 | 🌐 Rust | 📅 2026-03-03 - Patternfly components for Yew.
+* [patternfly-yew](https://github.com/ctron/patternfly-yew) ⭐ 166 | 🐛 26 | 🌐 Rust | 📅 2026-03-20 - Patternfly components for Yew.
 * [tailwind-yew-builder](https://github.com/matiu2/tailwind-yew-builder) ⭐ 75 | 🐛 3 | 🌐 Dockerfile | 📅 2022-11-30 - Builds Tailwind CSS for Yew using docker-compose. Also supports Trunk.
 * [yew-chart](https://github.com/titanclass/yew-chart) ⭐ 69 | 🐛 1 | 🌐 Rust | 📅 2024-09-27 - A Yew-based charting library that provides SVG based components for rendering charts.
 * [yew-components](https://github.com/angular-rust/yew-components) ⭐ 62 | 🐛 5 | 🌐 Rust | 📅 2021-07-18 - Material Design Components for the Yew framework.
@@ -176,10 +176,10 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 
 ### Hooks
 
-* [yew-hooks](https://github.com/jetli/yew-hooks) ⭐ 177 | 🐛 7 | 🌐 Rust | 📅 2026-03-19 - Custom Hooks library for Yew, inspired by [streamich/react-use](https://github.com/streamich/react-use) ⭐ 43,952 | 🐛 653 | 🌐 TypeScript | 📅 2026-01-20 and [alibaba/hooks](https://github.com/alibaba/hooks) ⭐ 14,940 | 🐛 268 | 🌐 TypeScript | 📅 2026-03-12.
-* [Bounce](https://github.com/bounce-rs/bounce) ⭐ 100 | 🐛 17 | 🌐 Rust | 📅 2024-01-22 - The uncomplicated state management library for Yew, inspired by [Redux](https://github.com/reduxjs/redux) ⭐ 61,460 | 🐛 41 | 🌐 TypeScript | 📅 2026-03-18 and [Recoil](https://github.com/facebookexperimental/Recoil) ⚠️ Archived.
+* [yew-hooks](https://github.com/jetli/yew-hooks) ⭐ 177 | 🐛 7 | 🌐 Rust | 📅 2026-03-19 - Custom Hooks library for Yew, inspired by [streamich/react-use](https://github.com/streamich/react-use) ⭐ 43,955 | 🐛 653 | 🌐 TypeScript | 📅 2026-01-20 and [alibaba/hooks](https://github.com/alibaba/hooks) ⭐ 14,941 | 🐛 269 | 🌐 TypeScript | 📅 2026-03-12.
+* [Bounce](https://github.com/bounce-rs/bounce) ⭐ 100 | 🐛 17 | 🌐 Rust | 📅 2024-01-22 - The uncomplicated state management library for Yew, inspired by [Redux](https://github.com/reduxjs/redux) ⭐ 61,463 | 🐛 41 | 🌐 TypeScript | 📅 2026-03-18 and [Recoil](https://github.com/facebookexperimental/Recoil) ⚠️ Archived.
 * [yewv](https://github.com/yewv/yewv) ⭐ 11 | 🐛 0 | 🌐 Rust | 📅 2022-04-20 - A lightning fast state management module for Yew built with performance and simplicity as a first priority.
-* [yew-side-effect](https://github.com/futursolo/yew-side-effect) ⚠️ Archived - Reconcile Side Effects in Yew Applications, inspired by [react-side-effect](https://github.com/gaearon/react-side-effect) ⭐ 1,218 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-04 and [react-helmet](https://github.com/nfl/react-helmet) ⭐ 17,492 | 🐛 220 | 🌐 JavaScript | 📅 2023-07-18.
+* [yew-side-effect](https://github.com/futursolo/yew-side-effect) ⚠️ Archived - Reconcile Side Effects in Yew Applications, inspired by [react-side-effect](https://github.com/gaearon/react-side-effect) ⭐ 1,218 | 🐛 15 | 🌐 JavaScript | 📅 2023-03-04 and [react-helmet](https://github.com/nfl/react-helmet) ⭐ 17,491 | 🐛 220 | 🌐 JavaScript | 📅 2023-07-18.
 
 ### Javascript Library Ports
 
@@ -205,8 +205,8 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 
 ### Wasm
 
-* [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) ⭐ 8,916 | 🐛 546 | 🌐 Rust | 📅 2026-03-19 - Facilitating high-level interactions between WebAssembly modules and JavaScript.
-* [stdweb](https://github.com/koute/stdweb) ⭐ 3,459 | 🐛 135 | 🌐 Rust | 📅 2024-02-28 - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
+* [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) ⭐ 8,918 | 🐛 546 | 🌐 Rust | 📅 2026-03-20 - Facilitating high-level interactions between WebAssembly modules and JavaScript.
+* [stdweb](https://github.com/koute/stdweb) ⭐ 3,458 | 🐛 135 | 🌐 Rust | 📅 2024-02-28 - Provides Rust bindings to the Web APIs and to allow a high degree of interoperability between Rust and JavaScript.
 * [tauri-sys](https://github.com/JonasKruckenberg/tauri-sys) ⭐ 122 | 🐛 22 | 🌐 Rust | 📅 2026-03-13 - Raw bindings to the Tauri API for projects using wasm-bindgen.
 
 ### Frameworks
@@ -215,12 +215,12 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 
 ## Tooling
 
-* [Tauri](https://github.com/tauri-apps/tauri) ⭐ 104,365 | 🐛 1,380 | 🌐 Rust | 📅 2026-03-18 - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
-* [binaryen](https://github.com/WebAssembly/binaryen) ⭐ 8,405 | 🐛 522 | 🌐 WebAssembly | 📅 2026-03-20 - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
-* [wabt](https://github.com/WebAssembly/wabt) ⭐ 7,912 | 🐛 212 | 🌐 C++ | 📅 2026-03-18 - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
-* [wasm-pack](https://github.com/rustwasm/wasm-pack) ⭐ 7,124 | 🐛 393 | 🌐 Rust | 📅 2026-03-03 - Your favorite Rust -> WebAssembly workflow tool.
+* [Tauri](https://github.com/tauri-apps/tauri) ⭐ 104,408 | 🐛 1,382 | 🌐 Rust | 📅 2026-03-21 - Tauri is a framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+* [binaryen](https://github.com/WebAssembly/binaryen) ⭐ 8,406 | 🐛 521 | 🌐 WebAssembly | 📅 2026-03-21 - Compiler infrastructure and toolchain library for WebAssembly, for the `wasm-opt` tool to reduce .wasm file size.
+* [wabt](https://github.com/WebAssembly/wabt) ⭐ 7,915 | 🐛 212 | 🌐 C++ | 📅 2026-03-18 - The WebAssembly Binary Toolkit, for the `wasm-strip` and `wasm-objdump` tools to reduce .wasm file size.
+* [wasm-pack](https://github.com/rustwasm/wasm-pack) ⭐ 7,125 | 🐛 394 | 🌐 Rust | 📅 2026-03-20 - Your favorite Rust -> WebAssembly workflow tool.
 * [Trunk](https://github.com/thedodd/trunk) ⭐ 4,218 | 🐛 127 | 🌐 Rust | 📅 2026-03-13 - Build, bundle & ship your Rust Wasm application to the web.
-* [cargo-web](https://github.com/koute/cargo-web) ⭐ 1,114 | 🐛 107 | 🌐 Rust | 📅 2023-11-29 - A Cargo subcommand for the client-side Web.
+* [cargo-web](https://github.com/koute/cargo-web) ⭐ 1,113 | 🐛 107 | 🌐 Rust | 📅 2023-11-29 - A Cargo subcommand for the client-side Web.
 * [wasm-pack-action](https://github.com/jetli/wasm-pack-action) ⭐ 56 | 🐛 19 | 🌐 TypeScript | 📅 2023-03-03 - Github action to install `wasm-pack` by downloading the executable to speed up CI/CD.
 * [trunk-action](https://github.com/jetli/trunk-action) ⭐ 36 | 🐛 1 | 🌐 TypeScript | 📅 2025-07-18 - Github action to install `Trunk` by downloading the executable to speed up CI/CD.
 * [yew-fmt](https://github.com/schvv31n/yew-fmt) ⭐ 27 | 🐛 2 | 🌐 Rust | 📅 2025-07-16 - A configurable extension to `rustfmt` for formatting Yew HTML.
@@ -262,8 +262,8 @@ Contributions welcome! Read the [contribution guidelines](origin/CONTRIBUTING.md
 
 Yew team love to share ideas with other projects and believe we can all help each other reach the full potential of this exciting new technology.
 
-* [Dioxus](https://github.com/DioxusLabs/dioxus) ⭐ 35,373 | 🐛 672 | 🌐 Rust | 📅 2026-03-19 - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-* [Leptos](https://github.com/leptos-rs/leptos) ⭐ 20,446 | 🐛 139 | 🌐 Rust | 📅 2026-03-16 - Build fast web applications with Rust.
+* [Dioxus](https://github.com/DioxusLabs/dioxus) ⭐ 35,385 | 🐛 671 | 🌐 Rust | 📅 2026-03-20 - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+* [Leptos](https://github.com/leptos-rs/leptos) ⭐ 20,452 | 🐛 138 | 🌐 Rust | 📅 2026-03-20 - Build fast web applications with Rust.
 * [Seed](https://github.com/seed-rs/seed) ⭐ 3,838 | 🐛 55 | 🌐 Rust | 📅 2025-01-11 - A Rust framework for creating web apps.
 * [Sycamore](https://github.com/sycamore-rs/sycamore) ⭐ 3,213 | 🐛 34 | 🌐 Rust | 📅 2025-12-02 - A reactive library for creating web apps in Rust and WebAssembly.
 * [Percy](https://github.com/chinedufn/percy) ⭐ 2,308 | 🐛 43 | 🌐 Rust | 📅 2025-12-15 - A modular toolkit for building isomorphic web apps with Rust + WebAssembly.
@@ -273,6 +273,6 @@ Yew team love to share ideas with other projects and believe we can all help eac
 
 ## Related lists
 
-* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 56,246 | 🐛 12 | 🌐 Rust | 📅 2026-03-19 - A curated list of Rust code and resources.
-* [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm) ⭐ 9,515 | 🐛 56 | 📅 2024-11-15 - Collection of awesome things regarding WebAssembly ecosystem.
+* [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 56,261 | 🐛 10 | 🌐 Rust | 📅 2026-03-20 - A curated list of Rust code and resources.
+* [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm) ⭐ 9,516 | 🐛 56 | 📅 2024-11-15 - Collection of awesome things regarding WebAssembly ecosystem.
 * [Awesome Rust and WebAssembly](https://github.com/rustwasm/awesome-rust-and-webassembly) ⚠️ Archived - A list of awesome Rust and WebAssembly projects, libraries, tools, and resources.
